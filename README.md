@@ -16,7 +16,7 @@ The display has 4 buttons on which I placed different functions, written in Pyth
 
 - Key1: Clear display, to prevent any burn in / ghosting
 - Key2: Fetch todos from my Nextcloud server sorted by creation date
-- Key3: Coffee break! Renders a nice up of coffee
+- Key3: Coffee break! Renders a nice cup of coffee
 - Key4: Fetch current weather information from openweathermap (huge shoutout to [Protostax and their tutorial](https://www.hackster.io/sridhar-rajagopal/weather-station-with-epaper-and-raspberry-pi-c26a70), which really made the start easy for me!)
 
 ## Demo!
